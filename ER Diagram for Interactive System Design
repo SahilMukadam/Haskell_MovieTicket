@@ -22,7 +22,7 @@
         <mxCell id="UZe2EMsV4R6hxB9-TJrw-13" value="Exit" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/exit-128.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="209.39" width="69.22" height="69.22" as="geometry" />
         </mxCell>
-        <mxCell id="UZe2EMsV4R6hxB9-TJrw-15" value="Ai Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UZe2EMsV4R6hxB9-TJrw-15" value="AI Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="141.35" y="281.77" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UZe2EMsV4R6hxB9-TJrw-16" value="Agitation Detection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
